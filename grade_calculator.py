@@ -25,6 +25,7 @@ def is_pass(marks):
 
 def main():
     print("STUDENT GRADE CALCULATOR")
+    print("Welcome to the Grade Calculator")
 
     marks = []
     for i in range(5):
